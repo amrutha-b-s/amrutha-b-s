@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Building+Modern+Applications;AI+%26+Tech+Enthusiast+🚀" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Women+in+tech;Building+Modern+Applications;AI+%26+Tech+Enthusiast+🚀" /> </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
@@ -124,7 +124,7 @@ UI/UX Design
 <h3 align="center">🚨 TRATA – The Protector</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/BtRBa3Z585qSXJ5bnD/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
