@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Amrutha B S</h1>
 
 <h3 align="center">
@@ -68,6 +69,10 @@ AI/ML Engineer • Full Stack Developer • Tech Enthusiast 🚀
 <br><br>
 
 ☕ <i>"My code works perfectly... until someone watches me debug 😭"</i>
+
+<br><br>
+
+<img src="https://media.tenor.com/s5Fh4p9jQKMAAAAC/anime-crying.gif" width="180"/>
 
 </div>
 
@@ -143,7 +148,7 @@ Android emergency safety application with SOS alerts, GPS tracking, Firebase int
 <h3 align="center">🪙 Gold Price Tracker</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="250"/>
+  <img src="https://media.tenor.com/8M6K4vRZ6WAAAAAC/money-cash.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -183,7 +188,7 @@ Interactive dog breed guessing game with geography quiz levels and fun gameplay 
 <h3 align="center">🌐 Premium AI Portfolio</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAC/girl-computer.gif" width="250"/>
+  <img src="https://media.tenor.com/L8K62iTDkzGX6AAAAC/girl-anime.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -198,19 +203,29 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 </tr>
 
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🆘 Helpline System</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/dg7Th23TzFUAAAAC/working-anime.gif" width="250"/>
+</p>
+
+<p align="center">
+Emergency assistance and support platform designed for quick response and accessibility.
+</p>
+
+<p align="center">
+<a href="https://helpline-nine.vercel.app/">🔗 Live Demo</a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -269,3 +284,4 @@ https://portfolio-three-wheat-99.vercel.app/
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
 </p>
+```
