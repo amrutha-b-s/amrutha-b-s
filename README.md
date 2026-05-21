@@ -1,14 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Amrutha B S</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Women+in+Tech+🚀;Building+Modern+Applications;Creative+Frontend+Designer" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Women+in+Tech+🚀;Building+Modern+Applications;Creative+Frontend+Designer" />
 </p>
 
-# 👋 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
