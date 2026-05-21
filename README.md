@@ -159,14 +159,17 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=radical" />
-</p>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrutha-b-s&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=radical" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
