@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Full+Stack+Developer;Building+Modern+Applications;Exploring+AI+%2B+Creative+Technology;Women+in+Tech+🚀" />
 
----
-
 # 👩‍💻 About Me
 
 <table>
@@ -119,7 +117,7 @@ Android emergency safety application with SOS alerts, GPS tracking, Firebase int
 
 ## 🪙 Gold Price Tracker
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="260"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
 
 Real-time gold price tracking platform with live API integration and prediction dashboard.
 
@@ -147,7 +145,7 @@ Interactive dog breed guessing game with geography quiz levels and fun gameplay 
 
 ## 👩‍💻 Premium AI Portfolio
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 
 Modern animated developer portfolio built using React, TypeScript, Framer Motion, and EmailJS.
 
