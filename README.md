@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amrutha B S V</h1>
+<h1 align="center">Hi 👋, I'm Amrutha B S </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
@@ -25,13 +25,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👩‍💻 Developer Journey
+### 👨‍💻 Developer Journey
 
-- 🎓 CSE Student
-- 🤖 AI/ML & Full Stack Developer
-- 🌱 Exploring FastAPI, TensorFlow & Modern Web Apps
-- 🚀 Passionate about intelligent systems and real-world applications
-- ⚡ Focused on modern UI/UX + backend logic
+- 🎓 ISE Student at **DR.AIT,Bangalore**
+- 💼 Intern at **SuprMentr Technologies pvt ltd**
+- 🌱 Exploring **LLM , New AI**
+- 🚀 Passionate about scalable and impactful applications
+- ⚡ Focused on modern development and clean UI
 
 </td>
 
@@ -39,12 +39,12 @@
 
 ### 🚀 Tech Universe
 
-- 📱 Android Applications
-- 🌐 Full Stack Development
+- 📱 Android Application
+- 🌐 Full Stack Applications
 - 🤖 AI & Intelligent Systems
-- ☁️ APIs & Cloud Integrations
-- 🎨 Premium UI Design
-- 🚀 Real-world Problem Solving
+- 🎨 Modern UI/UX Design
+- ☁️ Cloud & Scalable Systems
+- ⚡ Problem Solving & Innovation
 
 </td>
 </tr>
@@ -54,23 +54,20 @@
 
 <div align="center">
 
-💬 Ask me about **AI/ML, React, Python, Flask, TensorFlow & Full Stack Development**
+💬 Ask me about **React Native, Python, REST APIs, Full Stack Development & AI Projects**
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Learning+Something+New+Everyday;Women+in+Tech+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Applications;Learning+Something+New+Everyday;Building+With+Code+%26+Creativity" />
 
 <br><br>
 
-☕ <i>"My code works perfectly... until someone watches me debug 😭"</i>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220"/>
+☕ <i>"My code works perfectly... until someone watches me debug."</i>
 
 </div>
 
 ---
+
 
 # 🛠️ Languages and Tools
 
