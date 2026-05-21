@@ -86,9 +86,6 @@ Currently exploring:
 
 # 🚀 Featured Projects
 
-## 🧠 Parkinson’s Disease Detection
-ML-powered web application using React, FastAPI, and scikit-learn for real-time prediction.
-
 ## 🚨 TRATA – The Protector
 Android emergency application with SOS alerts, GPS tracking, Firebase integration, and SMS fallback.
 
