@@ -169,7 +169,7 @@ Real-time gold price tracking platform with live API integration and prediction 
 </p>
 
 <p align="center">
-AI-powered dog breed classification platform using Flask and TensorFlow with CNN-based predictions.
+Interactive dog breed guessing game with geography quiz levels and fun gameplay mechanics.
 </p>
 
 </td>
@@ -194,20 +194,15 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amrutha-b-s&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=radical"/>
 </p>
-
 ---
 
 # 🏆 Achievements
