@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Amrutha B S</h1>
 
 <h3 align="center">
@@ -196,4 +195,3 @@ Emergency support and assistance platform designed for quick access to help serv
 ⭐ Thanks for visiting my profile ⭐
 
 </p>
-```
