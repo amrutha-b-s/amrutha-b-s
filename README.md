@@ -71,7 +71,7 @@ AI/ML Engineer • Full Stack Developer • Tech Enthusiast 🚀
 
 <br><br>
 
-<img src="https://media.tenor.com/s5Fh4p9jQKMAAAAC/anime-crying.gif" width="180"/>
+<img src="https://media.tenor.com/oEsO40lIjZkAAAAC/crying-anime.gif" width="180"/>
 
 </div>
 
@@ -169,7 +169,7 @@ Real-time gold price tracking platform with live API integration and prediction 
 <h3 align="center">🐾 DogVerse</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/mGc1N4Vd0EkAAAAC/dog-computer.gif" width="250"/>
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@ Interactive dog breed guessing game with geography quiz levels and fun gameplay 
 <h3 align="center">🌐 Premium AI Portfolio</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/L8K62iTDkzGX6AAAAC/girl-anime.gif" width="250"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -202,29 +202,19 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 </tr>
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🆘 Helpline System</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/dg7Th23TzFUAAAAC/working-anime.gif" width="250"/>
-</p>
-
-<p align="center">
-Emergency assistance and support platform designed for quick response and accessibility.
-</p>
-
-<p align="center">
-<a href="https://helpline-nine.vercel.app/">🔗 Live Demo</a>
-</p>
-
-</td>
-
-</tr>
-
 </table>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -273,7 +263,7 @@ Emergency assistance and support platform designed for quick response and access
 
 📧 amruthabswork@gmail.com
 
-🌍 Bangalore, Karnataka, India
+🌍 Bangalore, Karnataka,India
 
 🌐 Portfolio:  
 https://portfolio-three-wheat-99.vercel.app/
