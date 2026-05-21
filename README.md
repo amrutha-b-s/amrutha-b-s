@@ -1,79 +1,53 @@
-<h1 align="center">Hi 👋, I'm Amrutha B S</h1>
+# 🚀 Hi 👋, I'm Amrutha B S
 
-<h3 align="center">
-AI/ML Engineer • Full Stack Developer • Tech Enthusiast 🚀
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Women+in+Tech+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Full+Stack+Developer;Building+Modern+Applications;Exploring+AI+%2B+Creative+Technology;Women+in+Tech+🚀" />
 
 ---
 
 # 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
-</p>
-
-<div align="center">
-
-### Building intelligent applications with creativity, AI, and modern UI ✨
-
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### 🚀 Developer Journey
-
-- 🎓 Information Science Engineering Student
-- 🤖 AI/ML & Full Stack Developer
-- 💡 Passionate about intelligent systems
-- 🌱 Exploring FastAPI, AI, and scalable systems
-- ⚡ Focused on modern UI/UX + backend logic
+- 💻 AI/ML & Full Stack Developer  
+- 🌱 Exploring FastAPI, AI & scalable systems  
+- 🎨 Passionate about modern UI/UX  
+- 📱 Android & Web Application Developer  
+- 🚀 Building real-world intelligent systems  
+- ⚡ Love blending creativity with technology  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌌 Tech Universe
-
-- 🧠 Artificial Intelligence
-- 🌐 Full Stack Development
-- 📱 Android Applications
-- ☁️ APIs & Cloud Integrations
-- 🎨 Premium UI Design
-- 🚀 Real-world Problem Solving
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 
 </td>
-
 </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
+<p align="center">
 
 💬 Ask me about **AI/ML, React, Python, Flask, TensorFlow & Full Stack Development**
 
-<br><br>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Learning+Something+New+Everyday;Women+in+Tech+🚀" />
+<br>
 
-<br><br>
+<p align="center">
 
 ☕ <i>"My code works perfectly... until someone watches me debug 😭"</i>
 
-<br><br>
+</p>
 
-<img src="https://media.tenor.com/oEsO40lIjZkAAAAC/crying-anime.gif" width="180"/>
+<p align="center">
 
-</div>
+<img src="https://media.giphy.com/media/ROF8OQvDmxytW/giphy.gif" width="180"/>
+
+</p>
 
 ---
 
@@ -84,36 +58,37 @@ AI/ML Engineer • Full Stack Developer • Tech Enthusiast 🚀
 
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=react" width="100"/>
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="120"/>
 
 ### 🌐 Frontend
 
 HTML • CSS • JavaScript  
-React • TypeScript • Next.js
+React • TypeScript  
+Tailwind CSS • Framer Motion
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,firebase" width="100"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
 
 ### ⚙️ Backend & AI
 
-Python • Flask  
-TensorFlow • FastAPI  
-Firebase • MySQL
+Python • Flask • FastAPI  
+TensorFlow • Firebase  
+MySQL • APIs
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" width="100"/>
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="120"/>
 
-### 🛠️ Tools
+### 🧰 Tools
 
-Git • GitHub  
-VS Code • APIs  
-Machine Learning
+Git • GitHub • VS Code  
+Machine Learning  
+UI/UX Design
 
 </td>
 
@@ -128,35 +103,27 @@ Machine Learning
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🚨 TRATA – The Protector</h3>
+## 🚨 TRATA – The Protector
 
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250"/>
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
 
-<p align="center">
 Android emergency safety application with SOS alerts, GPS tracking, Firebase integration, and SMS fallback.
-</p>
+
+🔗 [Live Demo](https://helpline-nine.vercel.app/)
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🪙 Gold Price Tracker</h3>
+## 🪙 Gold Price Tracker
 
-<p align="center">
-  <img src="https://media.tenor.com/8M6K4vRZ6WAAAAAC/money-cash.gif" width="250"/>
-</p>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="260"/>
 
-<p align="center">
 Real-time gold price tracking platform with live API integration and prediction dashboard.
-</p>
 
-<p align="center">
-<a href="https://gold-price-tracker-mu.vercel.app/">🔗 Live Demo</a>
-</p>
+🔗 [Live Demo](https://gold-price-tracker-mu.vercel.app/)
 
 </td>
 
@@ -164,39 +131,27 @@ Real-time gold price tracking platform with live API integration and prediction 
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🐾 DogVerse</h3>
+## 🐾 DogVerse
 
-<p align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="250"/>
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
 
-<p align="center">
 Interactive dog breed guessing game with geography quiz levels and fun gameplay mechanics.
-</p>
 
-<p align="center">
-<a href="https://dog-verse.vercel.app/">🔗 Live Demo</a>
-</p>
+🔗 [Live Demo](https://dog-verse.vercel.app/)
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🌐 Premium AI Portfolio</h3>
+## 👩‍💻 Premium AI Portfolio
 
-<p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-<p align="center">
 Modern animated developer portfolio built using React, TypeScript, Framer Motion, and EmailJS.
-</p>
 
-<p align="center">
-<a href="https://portfolio-three-wheat-99.vercel.app/">🔗 Live Demo</a>
-</p>
+🔗 [Portfolio](https://portfolio-1bcz.vercel.app/)
 
 </td>
 
@@ -210,9 +165,9 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrutha-b-s&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha-b-s&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -220,14 +175,10 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 # 🏆 Achievements
 
-🏅 Zone Level Participant — TCS IT Quiz 2025
-
-🏅 Special Recognition — TRATA The Protector
-
-📄 Published Research Paper:  
-**“TRATA – The Protector”** in IJRASET (2025)
-
-🚀 Passionate about AI Innovation & Modern Applications
+- 🥇 Zone Level Participant — TCS IT Quiz 2025  
+- 🛡️ Special Recognition — TRATA The Protector  
+- 📄 Published Research Paper: **“TRATA – The Protector”** in IJRASET (2025)  
+- 🚀 Passionate about AI Innovation & Modern Applications  
 
 ---
 
@@ -236,40 +187,31 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 <p align="center">
 
 <a href="https://github.com/amrutha-b-s">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amrutha-b-s-/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://www.instagram.com/iamruthakaranth">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+<a href="https://www.instagram.com/iamruthakaranth?igsh=cmZ4Y2hjYWc3bWVl">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
 <a href="mailto:amruthabswork@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-<a href="https://portfolio-three-wheat-99.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+<a href="https://portfolio-1bcz.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
 </a>
 
 </p>
 
 ---
 
-# 📫 Contact Me
-
-📧 amruthabswork@gmail.com
-
-🌍 Bangalore, Karnataka,India
-
-🌐 Portfolio:  
-https://portfolio-three-wheat-99.vercel.app/
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
+
+✨ <b>Thanks for visiting my profile!</b> ✨
+
 </p>
