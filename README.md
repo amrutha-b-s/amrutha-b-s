@@ -28,7 +28,7 @@
 ### 👨‍💻 Developer Journey
 
 - 🎓 ISE Student at **DR.AIT,Bangalore**
-- 💼 Intern at **SuprMentr Technologies pvt ltd**
+- 💼 Intern at **SuprMentr Technologies**
 - 🌱 Exploring **LLM , New AI**
 - 🚀 Passionate about scalable and impactful applications
 - ⚡ Focused on modern development and clean UI
@@ -124,7 +124,7 @@ UI/UX Design
 <h3 align="center">🚨 TRATA – The Protector</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
