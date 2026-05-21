@@ -1,17 +1,3 @@
-Bro the problem is simple 😭
-Your README has **dead GIF/image links**.
-That’s why:
-
-* broken image icons appear
-* huge empty spaces appear
-* GitHub stats not loading properly
-
-I fixed everything for you below.
-THIS version is clean, professional, female-themed, and all images actually work.
-
-Replace your FULL README with this: 
-
-```md
 <h1 align="center">Hi 👋, I'm Amrutha B S</h1>
 
 <h3 align="center">
@@ -283,4 +269,3 @@ https://portfolio-three-wheat-99.vercel.app/
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
 </p>
-```
