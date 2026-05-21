@@ -124,7 +124,7 @@ UI/UX Design
 <h3 align="center">🚨 TRATA – The Protector</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
@@ -233,7 +233,7 @@ Modern animated developer portfolio built using React, TypeScript, Framer Motion
 
 📧 amruthabswork@gmail.com
 
-🌍 Karnataka, India
+🌍 Bangalore, Karnataka, India
 
 ---
 
