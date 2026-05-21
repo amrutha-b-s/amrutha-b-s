@@ -140,6 +140,10 @@ Machine Learning
 Android emergency safety application with SOS alerts, GPS tracking, Firebase integration, and SMS fallback.
 </p>
 
+<p align="center">
+<a href="https://helpline-nine.vercel.app/" target="_blank">🔗 Live Demo</a>
+</p>
+
 </td>
 
 <td width="50%">
@@ -154,6 +158,10 @@ Android emergency safety application with SOS alerts, GPS tracking, Firebase int
 Real-time gold price tracking platform with live API integration and prediction dashboard.
 </p>
 
+<p align="center">
+<a href="https://gold-price-tracker-mu.vercel.app/" target="_blank">🔗 Live Demo</a>
+</p>
+
 </td>
 
 </tr>
@@ -165,11 +173,15 @@ Real-time gold price tracking platform with live API integration and prediction 
 <h3 align="center">🐾 DogVerse</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-AI-powered dog breed classification platform using Flask and TensorFlow with CNN-based predictions.
+Interactive dog breed guessing game with geography quiz levels, built using modern web technologies and fun gameplay mechanics.
+</p>
+
+<p align="center">
+<a href="https://dog-verse.vercel.app/" target="_blank">🔗 Live Demo</a>
 </p>
 
 </td>
@@ -179,11 +191,15 @@ AI-powered dog breed classification platform using Flask and TensorFlow with CNN
 <h3 align="center">🌐 Premium AI Portfolio</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
 Modern animated developer portfolio built using React, TypeScript, Framer Motion, and EmailJS.
+</p>
+
+<p align="center">
+<a href="https://portfolio-three-wheat-99.vercel.app/" target="_blank">🔗 Live Demo</a>
 </p>
 
 </td>
